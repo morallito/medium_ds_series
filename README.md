@@ -2,9 +2,10 @@
 
 This repo contains all the files from my medium tutorials. 
 
-## [DSXXXX] - Dara Science series 
+## [DSXXXX] - Data Science series 
 
 * DS0001 - Linear regression and confidence interval.
+* DS0002 - Decision treee aplied to numerical data model.
 
 
 
